@@ -1,3 +1,3 @@
 # KitTools
-Minecraft resource pack with 3D tool`s models
+Minecraft resource pack with 3D tools.
 ___
