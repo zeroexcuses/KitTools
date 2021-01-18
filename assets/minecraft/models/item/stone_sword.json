@@ -59,7 +59,7 @@
 		},
 		{
 			"from": [7.6, 15.8, 7.4],
-			"to": [8.4, 16.8, 8.7],
+			"to": [8.4, 16.8, 8.6],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 16.7, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.8, 1.8], "rotation": 270, "texture": "#0"},
@@ -137,8 +137,7 @@
 			"translation": [-0.75, 2, 0]
 		},
 		"ground": {
-			"rotation": [0, 0, 90],
-			"translation": [0, -3, 0]
+			"rotation": [0, 90, 0]
 		},
 		"gui": {
 			"rotation": [0, 90, 0]
